@@ -8,3 +8,6 @@ Teste vscod
 modificado pelo terminal
 
 Nova atualização: modificado pelo VSCode
+
+
+testando novamente
