@@ -13,3 +13,5 @@ Nova atualização: modificado pelo VSCode
 testando novamente
 
 Gostou do Curso?
+
+TEste novo!
